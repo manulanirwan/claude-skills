@@ -1,6 +1,6 @@
 # Claude Skills
 
-19 custom skills for Claude, covering cybersecurity study, tech and automotive content creation, career development, and general dev/writing workflows.
+custom skills for Claude, covering cybersecurity study, tech and automotive content creation, career development, and general dev/writing workflows.
 
 ## Skills
 
